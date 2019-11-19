@@ -13,7 +13,8 @@
 	export default {
 		data() {
 			return {
-				title: 'Hello'
+				title: 'Hello',
+				tie: 'Hello'
 			}
 		},
 		onLoad() {
