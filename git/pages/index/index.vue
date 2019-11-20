@@ -13,7 +13,11 @@
 	export default {
 		data() {
 			return {
-				title: 'ddd',
+<<<<<<< HEAD
+				title: 'fff',
+=======
+				title: 'fff',
+>>>>>>> featurel
 				tie: 'Hello'
 			}
 		},
