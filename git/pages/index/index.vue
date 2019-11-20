@@ -18,7 +18,8 @@
 =======
 				title: 'fff',
 >>>>>>> featurel
-				tie: 'Hello'
+				tie: 'Hello',
+				text: "sdf"
 			}
 		},
 		onLoad() {
